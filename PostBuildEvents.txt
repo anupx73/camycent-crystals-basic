@@ -1,0 +1,2 @@
+copy $(SolutionDir)Database\Debug\Crystals.mdf $(TargetDir)
+copy $(SolutionDir)Database\Debug\Crystals_log.ldf $(TargetDir)
